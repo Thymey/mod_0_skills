@@ -1,0 +1,11 @@
+Deserts Class
+
+price [integer]
+quantity [integer]
+serves number of people [integer]
+Is hot [boolean]
+Is frozen [boolean]
+Contains Nuts [boolean]
+Contains Gluten [boolean]
+
+Does this desert need any ingredients from other stations [method]

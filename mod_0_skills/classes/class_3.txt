@@ -1,0 +1,22 @@
+Customer Classes
+
+ID [integer]
+FirstName [string]
+LastName [string]
+Family ID [integer]
+Birthdate [date]
+#number of visits [integer]
+FirstVisit [date]
+LastVisit [date]
+Total Spent [float]
+Giftcard balance [float]
+Has Allergy [boolean]
+AllergyType [array/hash]
+List of alcoholic drinks [array/hash]
+list of previous meals [array/hash]
+
+Remove Allergy Foods from Menu [method]
+calculate days since last visit [method]
+Show Family Birthdays [method]
+show favorite drink [method]
+show favorite meal [method]

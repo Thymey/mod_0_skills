@@ -1,0 +1,14 @@
+Entree's Class
+
+quantity on hand [integer]
+name of entree [string]
+cooked state [array]
+serves [integer]
+sides [array/hash]
+number of side [integer]
+includes salad [boolean]
+Contains Nuts [boolean]
+Contains Gluten [boolean]
+
+If inventory is out remove from menu and display alert [method]
+if side inventory is out send alert [method]
